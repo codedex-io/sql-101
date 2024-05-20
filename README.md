@@ -9,6 +9,8 @@ Welcome to SQL GitHub repo! We are super excited to have you. Here, you will fin
 
 ### Website: www.codedex.io/sql
 
+// ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="20" style="vertical-align: middle"> Queries
+
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="20" style="vertical-align: middle"> Queries
 
 - [`hello_world.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/02_hello_world.py)
