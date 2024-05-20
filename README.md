@@ -13,12 +13,18 @@ Welcome to SQL GitHub repo! We are super excited to have you. Here, you will fin
 
 ## Queries
 
-- [`hello_world.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/02_hello_world.py)
-- [`pattern.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/03_pattern.py)
-- [`initials.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/04_initials.py)
-- [`letter.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/05_letter.py)
+- [`introduction.sql`](https://github.com/codedex-io/sql-101/blob/main/1-queries/01_introduction.sql)
+- [`select.sql`](https://github.com/codedex-io/sql-101/blob/main/1-queries/02_select.sql)
+- [`streaming_wars.sql`](https://github.com/codedex-io/sql-101/blob/main/1-queries/03_streaming_wars.sql)
+- [`rotten_tomatoes.sql`](https://github.com/codedex-io/sql-101/blob/main/1-queries/04_rotten_tomatoes.sql)
+- [`like.sql`](https://github.com/codedex-io/sql-101/blob/main/1-queries/05_like.sql)
+- [`golden_age.sql`](https://github.com/codedex-io/sql-101/blob/main/1-queries/06_golden_age.sql)
+- [`order_by.sql`](https://github.com/codedex-io/sql-101/blob/main/1-queries/07_order_by.sql)
+- [`nyc_restaurants.sql`](https://github.com/codedex-io/sql-101/blob/main/1-queries/08_nyc_restaurants.sql)
 
-## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_equal.png" height="21" style="vertical-align: middle"> Variables
+<!-- ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_equal.png" height="21" style="vertical-align: middle"> Aggregate Functions -->
+
+## Aggregate Functions
 
 - [`temperature.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/07_temperature.py)
 - [`bmi.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/08_bmi.py)
