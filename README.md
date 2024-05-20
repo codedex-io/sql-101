@@ -24,12 +24,15 @@ Welcome to SQL GitHub repo! We are super excited to have you. Here, you will fin
 
 <!-- ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_equal.png" height="21" style="vertical-align: middle"> Aggregate Functions -->
 
-## Aggregate Functions
+## Aggregates
 
-- [`temperature.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/07_temperature.py)
-- [`bmi.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/08_bmi.py)
-- [`quadratic.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/09_quadratic.py)
-- [`currency.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/10_currency.py)
+- [`music_playlist.sql`](https://github.com/codedex-io/sql-101/blob/main/2-aggregates/09_music_playlist.sql)
+- [`counting_rows.sql`](https://github.com/codedex-io/sql-101/blob/main/2-aggregates/10_counting_rows.sql)
+- [`old_new.sql`](https://github.com/codedex-io/sql-101/blob/main/2-aggregates/11_old_new.sql)
+- [`total_playtime.sql`](https://github.com/codedex-io/sql-101/blob/main/2-aggregates/12_total_playtime.sql)
+- [`billboard_hot_100.sql`](https://github.com/codedex-io/sql-101/blob/main/2-aggregates/13_billboard_hot_100.sql)
+- [`group_by.sql`](https://github.com/codedex-io/sql-101/blob/main/2-aggregates/14_group_by.sql)
+- [`video_games.sql`](https://github.com/codedex-io/sql-101/blob/main/2-aggregates/15_video_games.sql)
 
 ---
 
