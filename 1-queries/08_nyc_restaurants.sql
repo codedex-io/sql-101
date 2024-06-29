@@ -27,7 +27,7 @@ SELECT *
 FROM restaurants
 WHERE neighborhood = 'Greenpoint';
 
--- Cheat eats
+-- Cheap eats
 
 SELECT *
 FROM restaurants
