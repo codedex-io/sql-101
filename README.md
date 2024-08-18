@@ -34,6 +34,15 @@ Welcome to SQL GitHub repo! We are super excited to have you. Here, you will fin
 - [`group_by.sql`](https://github.com/codedex-io/sql-101/blob/main/2-aggregates/14_group_by.sql)
 - [`video_games.sql`](https://github.com/codedex-io/sql-101/blob/main/2-aggregates/15_video_games.sql)
 
+  ## New Table
+
+- [`create_table.sql`](https://github.com/codedex-io/sql-101/blob/main/3-new-table/16_create_table.sql)
+- [`insert_into.sql`](https://github.com/codedex-io/sql-101/blob/main/3-new-table/17_insert_into.sql)
+- [`alter_table.sql`](https://github.com/codedex-io/sql-101/blob/main/3-new-table/18_alter_table.sql)
+- [`update_set.sql`](https://github.com/codedex-io/sql-101/blob/main/3-new-table/19_update_set.sql)
+- [`delete_from.sql`](https://github.com/codedex-io/sql-101/blob/main/3-new-table/20_delete_from.sql)
+- [`bffs.sql`](https://github.com/codedex-io/sql-101/blob/main/3-new-table/21_bffs.sql)
+
 ---
 
 Make sure to join the [community](https://www.codedex.io/community) and [Codédex Club](https://www.codedex.io/pricing) for more content! 💖
