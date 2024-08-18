@@ -34,7 +34,7 @@ Welcome to SQL GitHub repo! We are super excited to have you. Here, you will fin
 - [`group_by.sql`](https://github.com/codedex-io/sql-101/blob/main/2-aggregates/14_group_by.sql)
 - [`video_games.sql`](https://github.com/codedex-io/sql-101/blob/main/2-aggregates/15_video_games.sql)
 
-  ## New Table
+## New Table
 
 - [`create_table.sql`](https://github.com/codedex-io/sql-101/blob/main/3-new-table/16_create_table.sql)
 - [`insert_into.sql`](https://github.com/codedex-io/sql-101/blob/main/3-new-table/17_insert_into.sql)
