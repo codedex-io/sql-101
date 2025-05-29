@@ -1,4 +1,4 @@
 -- Locked In 🔐
 -- Codédex
 
--- books' author_id column (foreign key) 🤝 author's id column (primary key)
+-- books table's author_id column (foreign key) 🤝 authors table's id column (primary key)
